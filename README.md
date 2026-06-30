@@ -1,2 +1,102 @@
-# DSA-Questions
-A collection of Data Structures and Algorithms (DSA) solutions in C++, organized by topic and platform for coding interview preparation.
+#  Data Structures & Algorithms
+
+Welcome to my **Data Structures & Algorithms** repository! 
+
+This repository contains my solutions to DSA problems solved in **C++** as part of my coding interview preparation and problem-solving journey.
+
+## Goals
+
+- Strengthen problem-solving skills
+- Master Data Structures & Algorithms
+- Prepare for coding interviews
+- Maintain consistency through daily practice
+
+---
+
+##  Language
+
+- C++
+
+---
+
+##  Repository Structure
+
+```
+Data-Structures-and-Algorithms/
+│
+├── Arrays/
+├── Strings/
+├── Linked List/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Binary Search Tree/
+├── Heap/
+├── Graph/
+├── Dynamic Programming/
+├── Greedy/
+├── Backtracking/
+├── Recursion/
+├── Bit Manipulation/
+├── Sliding Window/
+├── Two Pointers/
+├── Binary Search/
+└── Miscellaneous/
+```
+
+---
+
+##  Problem Sources
+
+Problems are solved from various coding platforms, including:
+
+- LeetCode
+- CodeStudio
+- GeeksforGeeks
+- HackerRank
+- Coding Ninjas
+- Other coding platforms
+
+---
+
+##  Progress
+
+I regularly update this repository by adding new problems and improving existing solutions.
+
+---
+
+## Topics Covered
+
+- Arrays
+- Strings
+- Hashing
+- Sorting
+- Searching
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Binary Trees
+- BST
+- Heap
+- Graphs
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+- Sliding Window
+- Two Pointers
+- Bit Manipulation
+- Prefix Sum
+- Matrix
+- And many more...
+
+---
+
+##  Contributions
+
+This repository is primarily for my personal learning journey, but suggestions and improvements are always welcome!
+
+---
+
+##  If you find this repository helpful, consider giving it a star!
