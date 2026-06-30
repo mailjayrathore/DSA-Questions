@@ -107,6 +107,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mailjayrathore/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailjayrathore/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -117,4 +118,12 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mailjayrathore/DSA-Questions/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
