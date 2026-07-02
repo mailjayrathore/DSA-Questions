@@ -108,6 +108,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | ------- |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mailjayrathore/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailjayrathore/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -138,4 +140,8 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
