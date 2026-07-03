@@ -112,6 +112,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailjayrathore/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -144,4 +146,8 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
