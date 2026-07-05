@@ -112,6 +112,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailjayrathore/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mailjayrathore/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -143,6 +144,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
 | ------- |
