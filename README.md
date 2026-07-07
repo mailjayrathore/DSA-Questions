@@ -106,6 +106,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mailjayrathore/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mailjayrathore/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
@@ -157,5 +158,6 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mailjayrathore/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mailjayrathore/DSA-Questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
