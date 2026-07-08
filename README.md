@@ -106,6 +106,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mailjayrathore/DSA-Questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mailjayrathore/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mailjayrathore/DSA-Questions/tree/master/0053-maximum-subarray) |
@@ -129,6 +130,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mailjayrathore/DSA-Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
