@@ -112,6 +112,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0053-maximum-subarray](https://github.com/mailjayrathore/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mailjayrathore/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -147,6 +148,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
 ## Simulation
@@ -162,4 +164,8 @@ This repository is primarily for my personal learning journey, but suggestions a
 | ------- |
 | [0035-search-insert-position](https://github.com/mailjayrathore/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mailjayrathore/DSA-Questions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
