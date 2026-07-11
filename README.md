@@ -119,6 +119,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mailjayrathore/DSA-Questions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mailjayrathore/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mailjayrathore/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,10 +152,12 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mailjayrathore/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mailjayrathore/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
