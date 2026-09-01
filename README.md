@@ -145,6 +145,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mailjayrathore/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -173,4 +174,12 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mailjayrathore/DSA-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mailjayrathore/DSA-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
