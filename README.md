@@ -146,6 +146,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mailjayrathore/DSA-Questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mailjayrathore/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 ## Two Pointers
