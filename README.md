@@ -153,6 +153,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mailjayrathore/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -183,4 +184,8 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mailjayrathore/DSA-Questions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
