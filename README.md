@@ -107,6 +107,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mailjayrathore/DSA-Questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mailjayrathore/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
@@ -152,6 +153,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
