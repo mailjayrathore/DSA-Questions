@@ -157,6 +157,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mailjayrathore/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mailjayrathore/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -193,6 +194,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/mailjayrathore/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0344-reverse-string) |
 ## Trie
