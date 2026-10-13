@@ -152,6 +152,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0007-reverse-integer](https://github.com/mailjayrathore/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,8 +198,13 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0125-valid-palindrome](https://github.com/mailjayrathore/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mailjayrathore/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
