@@ -152,6 +152,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0007-reverse-integer](https://github.com/mailjayrathore/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mailjayrathore/DSA-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/mailjayrathore/DSA-Questions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
