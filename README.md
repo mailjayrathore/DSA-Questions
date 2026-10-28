@@ -123,6 +123,7 @@ This repository is primarily for my personal learning journey, but suggestions a
 | [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mailjayrathore/DSA-Questions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mailjayrathore/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mailjayrathore/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -174,16 +175,19 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mailjayrathore/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mailjayrathore/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mailjayrathore/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mailjayrathore/DSA-Questions/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -208,9 +212,14 @@ This repository is primarily for my personal learning journey, but suggestions a
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mailjayrathore/DSA-Questions/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
