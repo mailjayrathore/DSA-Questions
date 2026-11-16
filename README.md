@@ -224,4 +224,12 @@ This repository is primarily for my personal learning journey, but suggestions a
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mailjayrathore/DSA-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mailjayrathore/DSA-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
